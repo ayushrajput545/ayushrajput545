@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushrajput545&show_icons=true&locale=en" alt="ayushrajput545" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput545&" alt="ayushrajput545" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput545&" alt="streak-stats" /></p>
