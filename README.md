@@ -62,7 +62,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-nextjs-a-react-based-web-framework-developed-by-vercel-logo-shadow-tal-revivo.png" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" width="40" height="40"/></a>
 
   <!-- Tools & Services -->
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
@@ -70,7 +70,6 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
 </p>
 
@@ -78,7 +77,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
