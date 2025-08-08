@@ -60,7 +60,7 @@
 
   <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-nextjs-a-react-based-web-framework-developed-by-vercel-logo-shadow-tal-revivo.png" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" width="40" height="40"/></a>
 
@@ -77,17 +77,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushrajput545&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayushrajput545&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput545" alt="GitHub Streak" />
 </p>
+
 
 ---
 
