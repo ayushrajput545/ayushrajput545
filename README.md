@@ -1,52 +1,96 @@
 <h1 align="center">Hi 👋, I'm Ayush Rajput</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Problem Solver from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrajput545&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrajput545" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ayushrajput545&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrajput545" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrajput545" alt="ayushrajput545" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushrajput545&theme=onedark&margin-w=15&margin-h=15" alt="trophies"/>
+  </a> 
+</p>
 
-- 🔬 I’m currently working on **MERN Stack & MySQL with Node.js**
+- 🌱 I’m currently learning **Amazon Web Services (AWS)** and strengthening **Advanced Data Structures and Algorithms**
 
-- 🎥 Check out my portfolio at [rajputayush.netlify.app](https://rajputayush.netlify.app/)
+- 🧠 Passionate about building scalable and efficient applications with clean code and modern tools
 
-- 🌟 I’m currently learning **Amazon Web Services (AWS) and Advanced DSA**
+- 🎓 Pursuing B.Tech in Computer Science and Engineering from IET Lucknow (CGPA: 8.64/10)
 
-- 💻 All of my projects are available on [GitHub](https://github.com/ayushrajput545)
+- 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.in), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
 
-- 💡 Ask me about **Node.js, React.js, MySQL, MongoDB, Express.js**
+- ⚙️ Utilized tools like **ChatGPT** and **GitHub Copilot** to streamline development and optimize code quality
 
-- 💌 How to reach me **rajputayush694@gmail.com**
+- 💡 Ask me about **MERN Stack, Next.js, MySQL, MongoDB, and REST APIs**
 
-- 🎓 Passionate about building scalable and efficient applications, constantly learning and improving my skills.
+- 📬 Reach me at **rajputayush694@gmail.com**
 
-### Featured Projects
+- 🌐 Visit my portfolio: [rajputayuxsh.vercel.app](https://rajputayuxsh.vercel.app)
+
+---
+
+### 🚀 Featured Projects
+
 <!-- PROJECT-LIST:START -->
-- [🍽️ Tomato - Food Ordering App](https://tomato-food4u.netlify.app/) | [GitHub Repo](https://github.com/ayushrajput545/tomato.-Food-ordering-App)
-- [📚 StudyNotion - Online Learning Platform](https://studynotion-edtec.netlify.app/) | [GitHub Repo](https://github.com/ayushrajput545/StudyNotion-Online-Learning-System)
-- [🔧 DevStack - Online Code Editor](https://devstackk.netlify.app/) | [GitHub Repo](https://github.com/ayushrajput545/Dev-Stack)
+- 🎓 [StudyNotion – Online Learning Platform](https://studynotion-edtec.netlify.app/) | [GitHub Repo](https://github.com/ayushrajput545/StudyNotion-Online-Learning-System)  
+  _E-learning platform with instructor dashboards, secure payments via Razorpay, and OTP-based auth._  
+  _**Stack**: MERN, Redux, Tailwind CSS, Cloudinary, Chart.js_
+
+- 💼 [Jobsco – Online Job Portal](https://jobsco-job-portal-app.vercel.app/) | [GitHub Repo](https://github.com/ayushrajput545/Jobsco-Job-Portal-App)  
+  _Role-based job portal with Clerk authentication, Supabase integration, and Stripe subscriptions._  
+  _**Stack**: Next.js (App Router), MongoDB, Shadcn UI, Tailwind CSS_
+
+- 🍽️ [Tomato – Food Ordering App](https://tomato-food4u.netlify.app/) | [GitHub Repo](https://github.com/ayushrajput545/tomato.-Food-ordering-App)  
+  _JWT authentication, admin dashboard, Stripe payments._  
+  _**Stack**: MERN Stack, Tailwind CSS_
+
 <!-- PROJECT-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-rajput-199574287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-rajput" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left"> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput545&show_icons=true&locale=en&layout=compact" alt="ayushrajput545" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushrajput545&show_icons=true&locale=en" alt="ayushrajput545" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput545&" alt="streak-stats" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput545&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushrajput545&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput545" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-rajput-199574287" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:rajputayush694@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ayushrajput545" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
