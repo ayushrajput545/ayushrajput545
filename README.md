@@ -17,7 +17,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering from IET Lucknow (CGPA: 8.64/10)
 
-- 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.in), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
+- 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.org), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
 
 - ⚙️ Utilized tools like **ChatGPT** and **GitHub Copilot** to streamline development and optimize code quality
 
@@ -51,16 +51,27 @@
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
+  <!-- Languages -->
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+
+  <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-nextjs-a-react-based-web-framework-developed-by-vercel-logo-shadow-tal-revivo.png" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/express-js.png" width="40" height="40"/></a>
+
+  <!-- Tools & Services -->
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -86,11 +97,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-rajput-199574287" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:rajputayush694@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/ayushrajput545" target="blank">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayushrajput.545" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
