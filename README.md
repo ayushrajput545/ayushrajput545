@@ -11,15 +11,11 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)** and strengthening **Advanced Data Structures and Algorithms**
-
-- 🧠 Passionate about building scalable and efficient applications with clean code and modern tools
-
 - 🎓 Pursuing B.Tech in Computer Science and Engineering from IET Lucknow (CGPA: 8.64/10)
 
-- 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.org), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
+- 💼 Currently working as a **Software Development Engineer (SDE) Intern** at [BabyCode](https://www.creditsea.com), contributing to both frontend and backend development.
 
-- ⚙️ Utilized tools like **ChatGPT** and **GitHub Copilot** to streamline development and optimize code quality
+- 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.org), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
 
 - 💡 Ask me about **MERN Stack, Next.js, MySQL, MongoDB, and REST APIs**
 
@@ -50,7 +46,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left"> 
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
   <!-- Languages -->
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -64,7 +60,7 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" width="40" height="40"/></a>
 
-  <!-- Tools & Services -->
+  <!-- Tools -->
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
@@ -72,8 +68,6 @@
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
