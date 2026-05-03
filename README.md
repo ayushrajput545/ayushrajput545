@@ -13,7 +13,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Science and Engineering from IET Lucknow (CGPA: 8.64/10)
 
-- 💼 Currently working as a **Software Development Engineer (SDE) Intern** at [BabyCode](https://www.creditsea.com), contributing to both frontend and backend development.
+- 💼 Currently working as a **Software Development Engineer (SDE) Intern** at [CreditSea](https://www.creditsea.com), contributing to both frontend and backend development.
 
 - 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.org), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
 
@@ -46,27 +46,8 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-
-  <!-- Frameworks -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" width="40" height="40"/></a>
-
-  <!-- Tools -->
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
+<p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a><a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=B4UIxQoMYIGD&format=png&color=000000" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a><a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a><a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a><a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40"/></a>
 </p>
 
 ### 📊 GitHub Stats
