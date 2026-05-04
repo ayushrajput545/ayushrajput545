@@ -17,7 +17,7 @@
 
 - 💼 Recently worked as a **Full Stack Developer Intern** at [BabyCode](https://babycode.org), worked on a **live production website** using React.js, Tailwind CSS, and RESTful APIs
 
-- 💡 Ask me about **MERN Stack, Next.js, MySQL, MongoDB, and REST APIs**
+- 💡 Ask me about **JAVA, MERN Stack, Next.js, MySQL, MongoDB, and REST APIs**
 
 - 📬 Reach me at **rajputayush694@gmail.com**
 
